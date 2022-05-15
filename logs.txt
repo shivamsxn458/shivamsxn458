@@ -1,0 +1,264 @@
+Welcome to this System
+----------------------------------
+System Information:
+now = 2022-05-14 07:55:55.143452
+date and time = 14/05/2022 07:55:55
+System: Linux
+Node Name: ip-172-31-22-79
+Release: 5.13.0-1022-aws
+Version: #24~20.04.1-Ubuntu SMP Thu Apr 7 22:10:15 UTC 2022
+Machine: x86_64
+Processor: x86_64
+----------------------------------
+Memory Utilization:
+Memory :svmem(total=1014947840, available=275357696, percent=72.9, used=579424256, free=182603776, active=142934016, inactive=551997440, buffers=10719232, cached=242200576, shared=884736, slab=74452992)
+-----------------------------------
+Running Processes:
+systemd || 1
+kthreadd || 2
+rcu_gp || 3
+rcu_par_gp || 4
+kworker/0:0H-events_highpri || 6
+kworker/0:1-cgroup_destroy || 7
+mm_percpu_wq || 9
+rcu_tasks_rude_ || 10
+rcu_tasks_trace || 11
+ksoftirqd/0 || 12
+rcu_sched || 13
+migration/0 || 14
+idle_inject/0 || 15
+cpuhp/0 || 16
+kdevtmpfs || 17
+netns || 18
+inet_frag_wq || 19
+kauditd || 20
+khungtaskd || 21
+oom_reaper || 22
+writeback || 23
+kcompactd0 || 24
+ksmd || 25
+khugepaged || 26
+kintegrityd || 72
+kblockd || 73
+blkcg_punt_bio || 74
+xen-balloon || 75
+tpm_dev_wq || 76
+ata_sff || 77
+md || 78
+edac-poller || 79
+devfreq_wq || 80
+watchdogd || 81
+kworker/0:1H-kblockd || 83
+kswapd0 || 85
+ecryptfs-kthrea || 86
+kthrotld || 88
+acpi_thermal_pm || 89
+xenbus || 90
+xenwatch || 91
+nvme-wq || 92
+nvme-reset-wq || 93
+nvme-delete-wq || 94
+scsi_eh_0 || 95
+scsi_tmf_0 || 96
+scsi_eh_1 || 97
+scsi_tmf_1 || 98
+vfio-irqfd-clea || 100
+mld || 101
+ipv6_addrconf || 102
+kstrp || 111
+zswap-shrink || 114
+kworker/u31:0 || 115
+charger_manager || 120
+jbd2/xvda1-8 || 121
+ext4-rsv-conver || 122
+systemd-journald || 163
+ipmi-msghandler || 184
+systemd-udevd || 194
+cryptd || 220
+kaluad || 266
+kmpath_rdacd || 267
+kmpathd || 268
+kmpath_handlerd || 269
+multipathd || 270
+loop0 || 278
+loop1 || 283
+loop2 || 284
+loop3 || 286
+loop4 || 289
+loop5 || 290
+loop6 || 291
+loop7 || 294
+systemd-timesyncd || 317
+systemd-networkd || 396
+systemd-resolved || 398
+accounts-daemon || 443
+acpid || 444
+cron || 448
+dbus-daemon || 449
+polkitd || 461
+snapd || 466
+systemd-logind || 470
+udisksd || 472
+atd || 475
+kworker/0:3-events || 486
+ModemManager || 498
+agetty || 500
+agetty || 510
+unattended-upgr || 540
+sshd || 705
+loop8 || 2387
+amazon-ssm-agent || 5082
+ssm-agent-worker || 5513
+java || 18828
+rsyslogd || 19857
+xfsalloc || 26662
+xfs_mru_cache || 26663
+networkd-dispat || 27784
+bpfilter_umh || 30779
+systemd || 42896
+(sd-pam) || 42897
+kworker/u30:1-events_power_efficient || 43789
+kworker/u30:0-events_unbound || 44006
+sshd || 44304
+sshd || 44398
+bash || 44399
+sudo || 44473
+nano || 44474
+sshd || 44480
+sshd || 44552
+bash || 44553
+bash || 44583
+python3 || 44584
+------------------------------------
+Welcome to this System
+----------------------------------
+System Information:
+now = 2022-05-14 07:56:58.335868
+date and time = 14/05/2022 07:56:58
+System: Linux
+Node Name: ip-172-31-22-79
+Release: 5.13.0-1022-aws
+Version: #24~20.04.1-Ubuntu SMP Thu Apr 7 22:10:15 UTC 2022
+Machine: x86_64
+Processor: x86_64
+----------------------------------
+Memory Utilization:
+Memory :svmem(total=1014947840, available=275374080, percent=72.9, used=579399680, free=182611968, active=142995456, inactive=551952384, buffers=10735616, cached=242200576, shared=884736, slab=74444800)
+-----------------------------------
+Running Processes:
+systemd || 1
+kthreadd || 2
+rcu_gp || 3
+rcu_par_gp || 4
+kworker/0:0H-events_highpri || 6
+kworker/0:1-cgroup_destroy || 7
+mm_percpu_wq || 9
+rcu_tasks_rude_ || 10
+rcu_tasks_trace || 11
+ksoftirqd/0 || 12
+rcu_sched || 13
+migration/0 || 14
+idle_inject/0 || 15
+cpuhp/0 || 16
+kdevtmpfs || 17
+netns || 18
+inet_frag_wq || 19
+kauditd || 20
+khungtaskd || 21
+oom_reaper || 22
+writeback || 23
+kcompactd0 || 24
+ksmd || 25
+khugepaged || 26
+kintegrityd || 72
+kblockd || 73
+blkcg_punt_bio || 74
+xen-balloon || 75
+tpm_dev_wq || 76
+ata_sff || 77
+md || 78
+edac-poller || 79
+devfreq_wq || 80
+watchdogd || 81
+kworker/0:1H-kblockd || 83
+kswapd0 || 85
+ecryptfs-kthrea || 86
+kthrotld || 88
+acpi_thermal_pm || 89
+xenbus || 90
+xenwatch || 91
+nvme-wq || 92
+nvme-reset-wq || 93
+nvme-delete-wq || 94
+scsi_eh_0 || 95
+scsi_tmf_0 || 96
+scsi_eh_1 || 97
+scsi_tmf_1 || 98
+vfio-irqfd-clea || 100
+mld || 101
+ipv6_addrconf || 102
+kstrp || 111
+zswap-shrink || 114
+kworker/u31:0 || 115
+charger_manager || 120
+jbd2/xvda1-8 || 121
+ext4-rsv-conver || 122
+systemd-journald || 163
+ipmi-msghandler || 184
+systemd-udevd || 194
+cryptd || 220
+kaluad || 266
+kmpath_rdacd || 267
+kmpathd || 268
+kmpath_handlerd || 269
+multipathd || 270
+loop0 || 278
+loop1 || 283
+loop2 || 284
+loop3 || 286
+loop4 || 289
+loop5 || 290
+loop6 || 291
+loop7 || 294
+systemd-timesyncd || 317
+systemd-networkd || 396
+systemd-resolved || 398
+accounts-daemon || 443
+acpid || 444
+cron || 448
+dbus-daemon || 449
+polkitd || 461
+snapd || 466
+systemd-logind || 470
+udisksd || 472
+atd || 475
+kworker/0:3-events || 486
+ModemManager || 498
+agetty || 500
+agetty || 510
+unattended-upgr || 540
+sshd || 705
+loop8 || 2387
+amazon-ssm-agent || 5082
+ssm-agent-worker || 5513
+java || 18828
+rsyslogd || 19857
+xfsalloc || 26662
+xfs_mru_cache || 26663
+networkd-dispat || 27784
+bpfilter_umh || 30779
+systemd || 42896
+(sd-pam) || 42897
+kworker/u30:1-events_power_efficient || 43789
+kworker/u30:0-events_unbound || 44006
+sshd || 44304
+sshd || 44398
+bash || 44399
+sudo || 44473
+nano || 44474
+sshd || 44480
+sshd || 44552
+bash || 44553
+bash || 44600
+python3 || 44601
+------------------------------------
