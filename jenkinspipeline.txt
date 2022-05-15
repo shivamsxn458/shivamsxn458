@@ -1,0 +1,18 @@
+node {
+
+    stage('Checkout Code from Bitbucket') { 
+       
+       git branch: 'main', credentialsId : '5be2a5d8-22c9-4075-bdaf-b8347433ed8a' , url:'git@github.com:shivamsxn458/shivamsxn458.git'
+    }
+    
+    stage('Deploy'){
+    '''
+    ssh -o StrictHostKeyChecking=no -i /tmp/sshkey.pem username@ipadress <<EOF
+    '''
+    powershell '''cd C:\\Users\\Administrator\\Desktop\\
+    python testscript.py
+    '''
+    }
+}
+
+
