@@ -5,3 +5,10 @@ Below is the description of files:
 3. windowsinfo.py > provides system and running process information 
 4. logs.txt > It has stored information about system and processes.
 
+Process and Steps :
+> To run a job at a specific time, we need to setup cronjob :
+  in Linux > crontab -e and provide the command and path
+  in Windows > create schtasks or setup by Task scheduler
+  
+ > For automatic git action, setted up webhook in github and chosen GitHub hook trigger for GITScm polling in jenkins pipeline.
+
